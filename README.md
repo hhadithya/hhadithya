@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#### I'm HARINDU HADITHYA 😃
+#### I'm HARINDU HADITHYA 😃 - @hhadithya
 
 <!--
 **hhadithya/hhadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
