@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 
+#### 😃I'm HARINDU HADITHYA 👋
 
 <!--
 **hhadithya/hhadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm currently an undergraduate at University of Moratuwa
+- 🌱 I’m currently learning Python, JS and C++
+- 📈 AI/ML enthusiast
+- 🎸 I can play a couple of different instruments
