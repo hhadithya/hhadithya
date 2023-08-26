@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm currently an undergraduate at University of Moratuwa
-- 🌱 I’m currently learning Python, JS and C++
+- 🎓 I'm currently an undergraduate at the University of Moratuwa
+- 🌱 I’m currently learning Python, JS and C
 - 📈 AI/ML enthusiast
 - 🎸 I can play a couple of different instruments
