@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, JS and C
 - 📈 AI/ML enthusiast
 - 🎸 I can play a couple of different instruments
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya)](https://git.io/streak-stats)
+
