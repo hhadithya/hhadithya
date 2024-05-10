@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🎸 I can play a couple of different instruments
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya&theme=dark)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhadithya&show_icons=true&theme=transparent)
