@@ -28,5 +28,6 @@ technology.
 - 📈 AI/ML enthusiast
 - 🎸 I can play a couple of different instruments
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhadithya&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya&theme=modern-lilac2)](https://github.com/hhadithya/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya&theme=graywhite)](https://github.com/hhadithya/streak-stats#gh-light-mode-only)
