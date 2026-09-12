@@ -1,33 +1,9 @@
-### Hi there! 👋
-#### I'm HARINDU HADITHYA 😃
-<!--
-**hhadithya/hhadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/hhadithya">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhadithya/hhadithya/main/dark_mode.svg">
+    <img alt="terraform plan: software_engineer.harindu will be updated in-place. Scope changes from implementing features to owning a service end to end. Deployment becomes mine: docker, actions, three environments. Tests written alongside the service. Stack created: C#, Java, TypeScript, Python, .NET 8, ASP.NET Core, Spring Boot, Node.js, SQL Server, PostgreSQL, EF Core, Docker, Terraform, GitHub Actions, Azure. Warning, known limitations: nothing under real load yet, frontend competent not distinguished, months of terraform not years." src="https://raw.githubusercontent.com/hhadithya/hhadithya/main/light_mode.svg">
+  </picture>![Uploading dark_mode.svg…]()
 
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a committed learner with a strong passion for understanding diverse 
-concepts and technologies. I believe that sharing knowledge is an effective 
-way to reinforce my understanding, and I genuinely take pleasure in this 
-process. As a technology enthusiast, I have engaged with a wide range of 
-topics and continue to explore the dynamic and rapidly evolving landscape of 
-technology.
-
-- 🎓 I'm currently an undergraduate at the University of Moratuwa
-- 🌱 I’m currently working on Java, TS and Python
-- 📈 AI/ML enthusiast
-- 🎸 I can play a couple of different instruments
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhadithya&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya&theme=dark)](https://github.com/hhadithya/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hhadithya&theme=graywhite)](https://github.com/hhadithya/streak-stats#gh-light-mode-only)
+<sub>[hhadithya34@gmail.com](mailto:hhadithya34@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/harindu-hadithya-nanayakkara-b63aaa240/) &nbsp;·&nbsp; [Medium](https://medium.com/@hhadithya)</sub>
