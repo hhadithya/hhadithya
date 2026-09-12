@@ -1,25 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="268" viewBox="0 0 840 268" role="img" aria-labelledby="title description">
-  <title id="title">Harindu Hadithya — Backend &amp; cloud engineering</title>
-  <desc id="description">A terminal window showing whoami: Harindu Hadithya. Backend and cloud engineering. From data model to deployment.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1032" viewBox="0 0 840 1032" role="img" aria-labelledby="title description">
+  <title id="title">Harindu Hadithya | Engineering profile</title>
+  <desc id="description">Harindu Hadithya Nanayakkara. Final-year IT undergraduate at the University of Moratuwa, Sri Lanka. Full-stack development experience, focused on backend and cloud engineering. locals {   # How I approach the work   approach = [     &quot;Understand the why behind the implementation.&quot;,     &quot;Break problems down and question assumptions.&quot;,     &quot;Care about correctness and the wider system.&quot;,     &quot;Own the code I ship, including AI-assisted work.&quot;   ]   # Tools I work with   toolkit = {     backend  = [&quot;C# / .NET&quot;, &quot;Java / Spring Boot&quot;, &quot;Node.js&quot;]     web      = [&quot;TypeScript&quot;, &quot;React&quot;, &quot;Next.js&quot;]     data     = [&quot;PostgreSQL&quot;, &quot;SQL Server&quot;, &quot;EF Core&quot;]     cloud    = [&quot;AWS&quot;, &quot;Azure&quot;, &quot;Docker&quot;, &quot;Terraform&quot;]     delivery = [&quot;GitHub Actions&quot;]   }   # Questions I keep coming back to   exploring = [     &quot;Computer architecture and system design&quot;,     &quot;Applied AI and how it fits into useful software&quot;,     &quot;Sinhala-English code-switching (independent study)&quot;   ]   # Beyond engineering   also_into = [&quot;Design&quot;, &quot;Explaining technical ideas&quot;] }</desc>
   <style>
     text { font-family: Consolas, "Liberation Mono", Menlo, monospace; }
-    .muted { fill: #919da9; }
     .text { fill: #e6edf3; }
+    .muted, .comment { fill: #9aa6b2; }
     .accent { fill: #7dd3c7; }
+    .key { fill: #c4b5fd; }
+    .string { fill: #c9d9e8; }
+    .number { fill: #657281; }
+    .code { font-size: 15px; white-space: pre; }
   </style>
-  <rect x="0.5" y="0.5" width="839" height="267" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="839" height="1031" rx="12" fill="#0d1117" stroke="#30363d"/>
   <path d="M12 1H828Q839 1 839 12V45H1V12Q1 1 12 1Z" fill="#161b22"/>
   <path d="M1 45H839" stroke="#30363d"/>
-  <g fill="#919da9" opacity="0.65">
-    <circle cx="24" cy="23" r="4"/>
-    <circle cx="40" cy="23" r="4"/>
-    <circle cx="56" cy="23" r="4"/>
-  </g>
+  <g fill="#9aa6b2" opacity="0.6"><circle cx="24" cy="23" r="4"/><circle cx="40" cy="23" r="4"/><circle cx="56" cy="23" r="4"/></g>
   <text x="420" y="28" text-anchor="middle" class="muted" font-size="12">hhadithya ~ / profile</text>
-  <text x="32" y="85" font-size="14"><tspan class="accent">hhadithya</tspan><tspan class="muted">:~ $ </tspan><tspan class="text">whoami</tspan></text>
-  <text x="32" y="131" class="text" font-size="30" font-weight="700" letter-spacing="-1">Harindu Hadithya</text>
-  <text x="32" y="161" class="accent" font-size="17">Backend &amp; cloud engineering</text>
-  <text x="32" y="190" class="muted" font-size="15">From data model to deployment.</text>
-  <text x="32" y="239" font-size="14"><tspan class="accent">hhadithya</tspan><tspan class="muted">:~ $</tspan></text>
-  <rect x="143" y="226" width="8" height="16" rx="1" fill="#7dd3c7"/>
+  <text x="32" y="84" font-size="14"><tspan class="accent">hhadithya</tspan><tspan class="muted">:~ $ </tspan><tspan class="text">whoami</tspan></text>
+  <text x="32" y="129" class="text" font-size="30" font-weight="700" letter-spacing="-1">Harindu Hadithya</text>
+  <text x="32" y="159" class="accent" font-size="17">Backend &amp; cloud engineering</text>
+  <text x="32" y="193" class="muted" font-size="14">Final-year IT undergraduate · University of Moratuwa</text>
+  <text x="32" y="216" class="muted" font-size="14">Sri Lanka · Full-stack development experience</text>
+  <path d="M32 245H808" stroke="#30363d"/>
+  <text x="32" y="279" font-size="14"><tspan class="accent">hhadithya</tspan><tspan class="muted">:~ $ </tspan><tspan class="text">cat -n profile.tf</tspan></text>
+  <text x="808" y="279" text-anchor="end" class="muted" font-size="12">HCL</text>
+  <path d="M64 303V953" stroke="#30363d"/>
+  <text x="47" y="325" text-anchor="end" class="number" font-size="11">01</text>
+  <text x="82" y="325" class="code text" xml:space="preserve"><tspan class="key">locals</tspan> {</text>
+  <text x="47" y="348" text-anchor="end" class="number" font-size="11">02</text>
+  <text x="82" y="348" class="code text" xml:space="preserve"><tspan class="comment">  # How I approach the work</tspan></text>
+  <text x="47" y="371" text-anchor="end" class="number" font-size="11">03</text>
+  <text x="82" y="371" class="code text" xml:space="preserve">  <tspan class="key">approach</tspan> = [</text>
+  <text x="47" y="394" text-anchor="end" class="number" font-size="11">04</text>
+  <text x="82" y="394" class="code text" xml:space="preserve">    <tspan class="string">&quot;Understand the why behind the implementation.&quot;</tspan>,</text>
+  <text x="47" y="417" text-anchor="end" class="number" font-size="11">05</text>
+  <text x="82" y="417" class="code text" xml:space="preserve">    <tspan class="string">&quot;Break problems down and question assumptions.&quot;</tspan>,</text>
+  <text x="47" y="440" text-anchor="end" class="number" font-size="11">06</text>
+  <text x="82" y="440" class="code text" xml:space="preserve">    <tspan class="string">&quot;Care about correctness and the wider system.&quot;</tspan>,</text>
+  <text x="47" y="463" text-anchor="end" class="number" font-size="11">07</text>
+  <text x="82" y="463" class="code text" xml:space="preserve">    <tspan class="string">&quot;Own the code I ship, including AI-assisted work.&quot;</tspan></text>
+  <text x="47" y="486" text-anchor="end" class="number" font-size="11">08</text>
+  <text x="82" y="486" class="code text" xml:space="preserve">  ]</text>
+  <text x="47" y="509" text-anchor="end" class="number" font-size="11">09</text>
+  <text x="82" y="509" class="code text" xml:space="preserve"></text>
+  <text x="47" y="532" text-anchor="end" class="number" font-size="11">10</text>
+  <text x="82" y="532" class="code text" xml:space="preserve"><tspan class="comment">  # Tools I work with</tspan></text>
+  <text x="47" y="555" text-anchor="end" class="number" font-size="11">11</text>
+  <text x="82" y="555" class="code text" xml:space="preserve">  <tspan class="key">toolkit</tspan> = {</text>
+  <text x="47" y="578" text-anchor="end" class="number" font-size="11">12</text>
+  <text x="82" y="578" class="code text" xml:space="preserve">    <tspan class="key">backend</tspan>  = [<tspan class="string">&quot;C# / .NET&quot;</tspan>, <tspan class="string">&quot;Java / Spring Boot&quot;</tspan>, <tspan class="string">&quot;Node.js&quot;</tspan>]</text>
+  <text x="47" y="601" text-anchor="end" class="number" font-size="11">13</text>
+  <text x="82" y="601" class="code text" xml:space="preserve">    <tspan class="key">web</tspan>      = [<tspan class="string">&quot;TypeScript&quot;</tspan>, <tspan class="string">&quot;React&quot;</tspan>, <tspan class="string">&quot;Next.js&quot;</tspan>]</text>
+  <text x="47" y="624" text-anchor="end" class="number" font-size="11">14</text>
+  <text x="82" y="624" class="code text" xml:space="preserve">    <tspan class="key">data</tspan>     = [<tspan class="string">&quot;PostgreSQL&quot;</tspan>, <tspan class="string">&quot;SQL Server&quot;</tspan>, <tspan class="string">&quot;EF Core&quot;</tspan>]</text>
+  <text x="47" y="647" text-anchor="end" class="number" font-size="11">15</text>
+  <text x="82" y="647" class="code text" xml:space="preserve">    <tspan class="key">cloud</tspan>    = [<tspan class="string">&quot;AWS&quot;</tspan>, <tspan class="string">&quot;Azure&quot;</tspan>, <tspan class="string">&quot;Docker&quot;</tspan>, <tspan class="string">&quot;Terraform&quot;</tspan>]</text>
+  <text x="47" y="670" text-anchor="end" class="number" font-size="11">16</text>
+  <text x="82" y="670" class="code text" xml:space="preserve">    <tspan class="key">delivery</tspan> = [<tspan class="string">&quot;GitHub Actions&quot;</tspan>]</text>
+  <text x="47" y="693" text-anchor="end" class="number" font-size="11">17</text>
+  <text x="82" y="693" class="code text" xml:space="preserve">  }</text>
+  <text x="47" y="716" text-anchor="end" class="number" font-size="11">18</text>
+  <text x="82" y="716" class="code text" xml:space="preserve"></text>
+  <text x="47" y="739" text-anchor="end" class="number" font-size="11">19</text>
+  <text x="82" y="739" class="code text" xml:space="preserve"><tspan class="comment">  # Questions I keep coming back to</tspan></text>
+  <text x="47" y="762" text-anchor="end" class="number" font-size="11">20</text>
+  <text x="82" y="762" class="code text" xml:space="preserve">  <tspan class="key">exploring</tspan> = [</text>
+  <text x="47" y="785" text-anchor="end" class="number" font-size="11">21</text>
+  <text x="82" y="785" class="code text" xml:space="preserve">    <tspan class="string">&quot;Computer architecture and system design&quot;</tspan>,</text>
+  <text x="47" y="808" text-anchor="end" class="number" font-size="11">22</text>
+  <text x="82" y="808" class="code text" xml:space="preserve">    <tspan class="string">&quot;Applied AI and how it fits into useful software&quot;</tspan>,</text>
+  <text x="47" y="831" text-anchor="end" class="number" font-size="11">23</text>
+  <text x="82" y="831" class="code text" xml:space="preserve">    <tspan class="string">&quot;Sinhala-English code-switching (independent study)&quot;</tspan></text>
+  <text x="47" y="854" text-anchor="end" class="number" font-size="11">24</text>
+  <text x="82" y="854" class="code text" xml:space="preserve">  ]</text>
+  <text x="47" y="877" text-anchor="end" class="number" font-size="11">25</text>
+  <text x="82" y="877" class="code text" xml:space="preserve"></text>
+  <text x="47" y="900" text-anchor="end" class="number" font-size="11">26</text>
+  <text x="82" y="900" class="code text" xml:space="preserve"><tspan class="comment">  # Beyond engineering</tspan></text>
+  <text x="47" y="923" text-anchor="end" class="number" font-size="11">27</text>
+  <text x="82" y="923" class="code text" xml:space="preserve">  <tspan class="key">also_into</tspan> = [<tspan class="string">&quot;Design&quot;</tspan>, <tspan class="string">&quot;Explaining technical ideas&quot;</tspan>]</text>
+  <text x="47" y="946" text-anchor="end" class="number" font-size="11">28</text>
+  <text x="82" y="946" class="code text" xml:space="preserve">}</text>
+  <path d="M32 971H808" stroke="#30363d"/>
+  <text x="32" y="1005" font-size="14"><tspan class="accent">hhadithya</tspan><tspan class="muted">:~ $</tspan></text>
+  <rect x="143" y="993" width="8" height="16" rx="1" fill="#7dd3c7"/>
+  <text x="808" y="1005" text-anchor="end" class="muted" font-size="12">From data model to deployment.</text>
 </svg>
