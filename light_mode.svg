@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 730" width="780" height="730" role="img" aria-label="terraform plan output describing Harindu Hadithya">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 864" width="780" height="864" role="img" aria-label="terraform plan output describing Harindu Hadithya">
   <style>
     text, tspan { white-space: pre; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 13.5px; }
     .bg      { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
@@ -14,7 +14,7 @@
     .cursor  { fill: #1a7f37; }
   </style>
 
-  <rect class="bg" x="0.5" y="0.5" width="779" height="729" rx="6"/>
+  <rect class="bg" x="0.5" y="0.5" width="779" height="863" rx="6"/>
 
   <text class="plain">
     <tspan x="20" y="34"><tspan class="prompt">$</tspan> <tspan class="cmd">terraform plan</tspan></tspan>
@@ -28,30 +28,37 @@
     <tspan x="20" y="186">  <tspan class="chg">~</tspan> resource <tspan class="val">"software_engineer"</tspan> <tspan class="val">"harindu"</tspan> {</tspan>
     <tspan x="20" y="205">        <tspan class="key">id            </tspan> = <tspan class="val">"hhadithya"</tspan></tspan>
     <tspan x="20" y="224">        <tspan class="key">location      </tspan> = <tspan class="val">"Moratuwa, Sri Lanka"</tspan></tspan>
-    <tspan x="20" y="243">        <tspan class="key">focus         </tspan> = [<tspan class="val">"backend"</tspan>, <tspan class="val">"cloud"</tspan>, <tspan class="val">"distributed systems"</tspan>]</tspan>
+    <tspan x="20" y="243">        <tspan class="key">focus         </tspan> = [<tspan class="val">"backend"</tspan>, <tspan class="val">"cloud"</tspan>, <tspan class="val">"microservices"</tspan>]</tspan>
     <tspan x="20" y="262">      <tspan class="chg">~ </tspan><tspan class="key">scope         </tspan> = <tspan class="val">"implements features"</tspan> -&gt; <tspan class="val">"owns a service end to end"</tspan></tspan>
-    <tspan x="20" y="281">      <tspan class="chg">~ </tspan><tspan class="key">deployment    </tspan> = <tspan class="val">"someone else's job"</tspan> -&gt; <tspan class="val">"mine: docker, actions, 3 envs"</tspan></tspan>
+    <tspan x="20" y="281">      <tspan class="add">+ </tspan><tspan class="key">deployment    </tspan> = <tspan class="val">"docker, github actions, three environments"</tspan></tspan>
     <tspan x="20" y="300">      <tspan class="add">+ </tspan><tspan class="key">tests         </tspan> = <tspan class="val">"written alongside the service, not after"</tspan></tspan>
     <tspan x="20" y="319">    }</tspan>
 
-    <tspan x="20" y="357" class="dim">  # stack.primary will be created</tspan>
-    <tspan x="20" y="376">  <tspan class="add">+</tspan> resource <tspan class="val">"stack"</tspan> <tspan class="val">"primary"</tspan> {</tspan>
-    <tspan x="20" y="395">      <tspan class="add">+ </tspan><tspan class="key">languages     </tspan> = [<tspan class="val">"C#"</tspan>, <tspan class="val">"Java"</tspan>, <tspan class="val">"TypeScript"</tspan>, <tspan class="val">"Python"</tspan>]</tspan>
-    <tspan x="20" y="414">      <tspan class="add">+ </tspan><tspan class="key">backend       </tspan> = [<tspan class="val">".NET 8"</tspan>, <tspan class="val">"ASP.NET Core"</tspan>, <tspan class="val">"Spring Boot"</tspan>, <tspan class="val">"Node.js"</tspan>]</tspan>
-    <tspan x="20" y="433">      <tspan class="add">+ </tspan><tspan class="key">data          </tspan> = [<tspan class="val">"SQL Server"</tspan>, <tspan class="val">"PostgreSQL"</tspan>, <tspan class="val">"EF Core"</tspan>]</tspan>
-    <tspan x="20" y="452">      <tspan class="add">+ </tspan><tspan class="key">infrastructure</tspan> = [<tspan class="val">"Docker"</tspan>, <tspan class="val">"Terraform"</tspan>, <tspan class="val">"GitHub Actions"</tspan>, <tspan class="val">"Azure"</tspan>]</tspan>
-    <tspan x="20" y="471">    }</tspan>
+    <tspan x="20" y="357" class="dim">  # leadership.harindu will be created</tspan>
+    <tspan x="20" y="376">  <tspan class="add">+</tspan> resource <tspan class="val">"leadership"</tspan> <tspan class="val">"harindu"</tspan> {</tspan>
+    <tspan x="20" y="395">      <tspan class="add">+ </tspan><tspan class="key">team_lead     </tspan> = <tspan class="val">"led a hardware/software team through a full build"</tspan></tspan>
+    <tspan x="20" y="414">      <tspan class="add">+ </tspan><tspan class="key">collaboration </tspan> = <tspan class="val">"code review across a 14-engineer team"</tspan></tspan>
+    <tspan x="20" y="433">      <tspan class="add">+ </tspan><tspan class="key">mentoring     </tspan> = <tspan class="val">"tutored python, beginner to intermediate"</tspan></tspan>
+    <tspan x="20" y="452">    }</tspan>
 
-    <tspan x="20" y="509">Plan: <tspan class="add">1 to add</tspan>, <tspan class="chg">1 to change</tspan>, 0 to destroy.</tspan>
+    <tspan x="20" y="490" class="dim">  # stack.primary will be created</tspan>
+    <tspan x="20" y="509">  <tspan class="add">+</tspan> resource <tspan class="val">"stack"</tspan> <tspan class="val">"primary"</tspan> {</tspan>
+    <tspan x="20" y="528">      <tspan class="add">+ </tspan><tspan class="key">languages     </tspan> = [<tspan class="val">"C#"</tspan>, <tspan class="val">"Java"</tspan>, <tspan class="val">"TypeScript"</tspan>, <tspan class="val">"Python"</tspan>]</tspan>
+    <tspan x="20" y="547">      <tspan class="add">+ </tspan><tspan class="key">backend       </tspan> = [<tspan class="val">".NET 8"</tspan>, <tspan class="val">"ASP.NET Core"</tspan>, <tspan class="val">"Spring Boot"</tspan>, <tspan class="val">"Node.js"</tspan>]</tspan>
+    <tspan x="20" y="566">      <tspan class="add">+ </tspan><tspan class="key">data          </tspan> = [<tspan class="val">"SQL Server"</tspan>, <tspan class="val">"PostgreSQL"</tspan>, <tspan class="val">"EF Core"</tspan>]</tspan>
+    <tspan x="20" y="585">      <tspan class="add">+ </tspan><tspan class="key">infrastructure</tspan> = [<tspan class="val">"Docker"</tspan>, <tspan class="val">"Terraform"</tspan>, <tspan class="val">"GitHub Actions"</tspan>, <tspan class="val">"Azure"</tspan>]</tspan>
+    <tspan x="20" y="604">    }</tspan>
 
-    <tspan x="20" y="547" class="warn">╷</tspan>
-    <tspan x="20" y="566" class="warn">│ Warning: Known limitations</tspan>
-    <tspan x="20" y="585" class="warn">│</tspan>
-    <tspan x="20" y="604" class="warn">│   scale          = <tspan class="plain">nothing under real load yet</tspan></tspan>
-    <tspan x="20" y="623" class="warn">│   frontend       = <tspan class="plain">competent, not distinguished</tspan></tspan>
-    <tspan x="20" y="642" class="warn">│   infrastructure = <tspan class="plain">months of terraform, not years</tspan></tspan>
-    <tspan x="20" y="661" class="warn">╵</tspan>
+    <tspan x="20" y="642">Plan: <tspan class="add">2 to add</tspan>, <tspan class="chg">1 to change</tspan>, 0 to destroy.</tspan>
 
-    <tspan x="20" y="699"><tspan class="prompt">$</tspan> <tspan class="cursor">█</tspan></tspan>
+    <tspan x="20" y="680" class="warn">╷</tspan>
+    <tspan x="20" y="699" class="warn">│ Warning: Known limitations</tspan>
+    <tspan x="20" y="718" class="warn">│</tspan>
+    <tspan x="20" y="737" class="warn">│   scale          = <tspan class="plain">nothing under real load yet</tspan></tspan>
+    <tspan x="20" y="756" class="warn">│   frontend       = <tspan class="plain">competent, not distinguished</tspan></tspan>
+    <tspan x="20" y="775" class="warn">│   infrastructure = <tspan class="plain">months of terraform, not years</tspan></tspan>
+    <tspan x="20" y="794" class="warn">╵</tspan>
+
+    <tspan x="20" y="832"><tspan class="prompt">$</tspan> <tspan class="cursor">█</tspan></tspan>
   </text>
 </svg>
